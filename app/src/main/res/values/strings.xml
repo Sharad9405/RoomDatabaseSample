@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDbSample</string>
+
+
+    <string name="hint_word">Add Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Empty Word!</string>
+</resources>
